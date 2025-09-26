@@ -1,0 +1,41 @@
+{
+  "name": "Junior",
+  "musics": [
+    {
+      "song": "...Ready For It?",
+      "artist": "Taylor Swift",
+      "duration_ms": 208186,
+      "genre": "pop"
+    },
+    {
+      "song": "1, 2, 3 (feat. Jason Derulo \u0026 De La Ghetto)",
+      "artist": "Sof\u00EDa Reyes",
+      "duration_ms": 201526,
+      "genre": "pop, latin"
+    },
+    {
+      "song": "She Wolf",
+      "artist": "Shakira",
+      "duration_ms": 188866,
+      "genre": "pop, latin"
+    },
+    {
+      "song": "Cool Girl",
+      "artist": "Tove Lo",
+      "duration_ms": 197815,
+      "genre": "pop, Dance/Electronic"
+    },
+    {
+      "song": "I Wanna Love You",
+      "artist": "Akon",
+      "duration_ms": 247066,
+      "genre": "pop"
+    },
+    {
+      "song": "1 Thing",
+      "artist": "Amerie",
+      "duration_ms": 238746,
+      "genre": "hip hop, pop, R\u0026B"
+    }
+  ]
+}
