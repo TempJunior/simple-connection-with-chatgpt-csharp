@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet-carreira\\oop-2\\oop-2\\oop-2\\oop-2.csproj": {}
+    "C:\\Users\\Giovana\\simple-connection-with-chatgpt-csharp\\oop-2\\oop-2.csproj": {}
   },
   "projects": {
-    "E:\\dotnet-carreira\\oop-2\\oop-2\\oop-2\\oop-2.csproj": {
+    "C:\\Users\\Giovana\\simple-connection-with-chatgpt-csharp\\oop-2\\oop-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet-carreira\\oop-2\\oop-2\\oop-2\\oop-2.csproj",
+        "projectUniqueName": "C:\\Users\\Giovana\\simple-connection-with-chatgpt-csharp\\oop-2\\oop-2.csproj",
         "projectName": "oop-2",
-        "projectPath": "E:\\dotnet-carreira\\oop-2\\oop-2\\oop-2\\oop-2.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet-carreira\\oop-2\\oop-2\\oop-2\\obj\\",
+        "projectPath": "C:\\Users\\Giovana\\simple-connection-with-chatgpt-csharp\\oop-2\\oop-2.csproj",
+        "packagesPath": "C:\\Users\\Giovana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giovana\\simple-connection-with-chatgpt-csharp\\oop-2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Giovana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Giovana\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,7 @@
 using oop_2.domain.model;
 
 namespace oop_2.domain.sdks.openai;
-using OpenAI;
-using OpenAI.Chat;
+
 public class OpenAiConnection
 {
     protected string languageName()
